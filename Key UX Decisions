@@ -1,0 +1,14 @@
+1- Consistent Navigation
+A fixed left sidebar is used across all screens (Dashboard, Leads, Clients, Tasks, Analytics, Settings) to maintain orientation and reduce cognitive load.
+
+2- Clear Information Hierarchy
+Primary actions (e.g., Add New Lead / New Task) and key metrics are placed at the top of screens so users can quickly take action without searching.
+
+3- Visual Workflow Representation
+The sales pipeline uses a Kanban-style layout to make lead stages easy to understand and manage at a glance.
+
+4- Context-Rich Detail Views
+Client profiles combine contact details, activity timeline, deliverables, follow-ups, and client health in one view, reducing the need to switch between multiple pages.
+
+5- Task-Focused Productivity
+Task views prioritise urgency and progress with filters (Today, Overdue, This Week, Completed), clear priority tags, and status controls to support daily execution.
