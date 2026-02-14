@@ -1,0 +1,1 @@
+NexusCRM is a web-based CRM dashboard designed for digital agencies to manage leads, clients, tasks, and performance metrics in one unified system. The interface focuses on clarity, speed of action, and visibility of ongoing work, helping small teams stay organised and efficient.
